@@ -22,3 +22,13 @@ manually?
 O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
 
 Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
